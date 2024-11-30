@@ -105,7 +105,7 @@
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     row-gap: 7px;
-    grid-template-areas: "start start start" "center center center" "end end end";      
+    grid-template-areas: "start start start" "center center center" "end end end";
     padding-top: 165px;
     z-index: 1;
 }
@@ -306,7 +306,7 @@
     color: #FFFFFF;
     display: flex;
     justify-content: space-between;
-    text-align: start; 
+    text-align: start;
     padding-bottom: 48px;
     padding-left: 40px;
     padding-right: 40px;
@@ -318,7 +318,7 @@
 
 .lots_look-more-link {
     width: 1052px;
-    height: 50px;  
+    height: 50px;
 }
 
 .lots_look-more-link_list {
@@ -391,7 +391,7 @@
     font-style: normal;
     color: #000;
     text-transform: uppercase;
-    margin-bottom: 77px; 
+    margin-bottom: 77px;
 }
 
 .about_text_part-1 {
@@ -404,7 +404,7 @@
     text-align: start;
     padding-right: 25px;
     width: 690px;
-    height: 120px;   
+    height: 120px;
 }
 
 .about_text_part-2 {
@@ -416,7 +416,7 @@
     line-height: 24px;
     text-align: start;
     width: 693px;
-    height: 181px;    
+    height: 181px;
 }
 
 .footer {
@@ -424,7 +424,7 @@
     display: grid;
     grid-template-columns: 1fr 519px 1fr;
     align-content: start;
-    padding-top: 3px;    
+    padding-top: 3px;
 }
 
 .footer_menu {
