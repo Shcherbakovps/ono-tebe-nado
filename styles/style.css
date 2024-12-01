@@ -25,7 +25,7 @@
 .header_links-list-item_no-bullet {
     display: flex;
     border-bottom: none;
-    list-style-type: none;    
+    list-style-type: none;
 }
 
 .header_link,
@@ -40,7 +40,7 @@
 }    
 
 .header_link_active {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 .header_logo {
